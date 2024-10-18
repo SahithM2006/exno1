@@ -65,4 +65,4 @@ STEP 6: Use zscore of to remove outliers
 
 
 # Result
-          <<include your Result here>>
+Thus the above program has been executed successfully
